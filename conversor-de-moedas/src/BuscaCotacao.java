@@ -7,7 +7,7 @@ import java.net.http.HttpResponse;
 
 public class BuscaCotacao {
 
-    private static final String API_KEY = "781618482a153a36d09624fa";
+    private static final String API_KEY = "";
 
     public DadosBuscaCotacao buscarCotacao(String moeda){
 
